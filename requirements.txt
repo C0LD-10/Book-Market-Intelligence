@@ -1,0 +1,24 @@
+# Core data / ML
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost==3.4.1
+shap==0.52.0
+scipy==1.17.1
+
+# Plotting
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# I/O and config
+pyarrow==25.0.1
+joblib==1.5.3
+pyyaml==6.0.3
+
+# App
+streamlit==1.64.0
+
+# Notebooks (only needed to re-execute notebooks/, not to run src/ or app/)
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.3.0
