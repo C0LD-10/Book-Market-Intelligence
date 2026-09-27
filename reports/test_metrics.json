@@ -1,0 +1,19 @@
+{
+  "n_test": 2225,
+  "positive_rate_test": 0.31820224719101126,
+  "roc_auc": 0.8535039793824415,
+  "average_precision": 0.7461346003669631,
+  "brier_score": 0.15629057586193085,
+  "f1_at_threshold": 0.6430155210643016,
+  "threshold_used": 0.6237868070602417,
+  "confusion_matrix": [
+    [
+      1307,
+      210
+    ],
+    [
+      273,
+      435
+    ]
+  ]
+}
